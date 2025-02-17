@@ -30,4 +30,6 @@ index 있이 select
 
 
 
+파티셔닝 사용
+![image](https://github.com/user-attachments/assets/2c53cbc7-b8f7-4774-ae9c-d5bf5f912312)
 
